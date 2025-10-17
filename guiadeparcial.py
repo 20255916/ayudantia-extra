@@ -33,6 +33,7 @@ print(condicion1 and condicion2_1 and condicion2_2 and condicion3 and condicion4
 
 
 
+
 # print(correo.index("@")) 
 
 
